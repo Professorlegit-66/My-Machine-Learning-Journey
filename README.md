@@ -16,9 +16,11 @@ My ML Journey
 ├── 100 Days of ML
 │   ├── Data Gathering                      # APIs, web scraping, files
 │   ├── Exploratory Data Analysis (EDA)     # Univariate, bivariate, multivariate analysis
+│   │   └── Pandas Profiling                # Automated EDA reports
 │   ├── Feature Engineering
 │   │   └── Feature Transformation          # Imputation, scaling, encoding
-│   └── Pandas Profiling                    # Automated EDA reports
+│   └── Model Development
+│       └── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
 │
 ├── Data Visualization                      # MatPlotLib, SeaBorn, Cuflinks + Plotly practice
 ├── Numpy                                   # NumPy fundamentals and exercises
