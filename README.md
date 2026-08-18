@@ -21,7 +21,7 @@ My ML Journey
 │   │   └── Feature Transformation          # Imputation, scaling, encoding
 │   └── Model Development
 │       └── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
-│
+│           └── Models                      # Saved model artifacts (e.g. pipe.pkl)
 ├── Data Visualization                      # MatPlotLib, SeaBorn, Cuflinks + Plotly practice
 ├── Numpy                                   # NumPy fundamentals and exercises
 ├── Pandas                                  # Pandas fundamentals and exercises
