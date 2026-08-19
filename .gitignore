@@ -12,3 +12,9 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+Datasets/*
+!Datasets/README.md
+!Datasets/Books.csv
+!Datasets/Countries_Details.csv
+!Datasets/Pakistan_Weather.csv
