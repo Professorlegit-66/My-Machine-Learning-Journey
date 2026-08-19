@@ -22,7 +22,9 @@ My ML Journey
 │   └── Model Development
 │       └── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
 │           └── Models                      # Saved model artifacts (e.g. pipe.pkl)
+│
 ├── Data Visualization                      # MatPlotLib, SeaBorn, Cuflinks + Plotly practice
+├── Datasets                                # Shared datasets (Kaggle-sourced files not tracked, see README)
 ├── Numpy                                   # NumPy fundamentals and exercises
 ├── Pandas                                  # Pandas fundamentals and exercises
 └── .gitignore
