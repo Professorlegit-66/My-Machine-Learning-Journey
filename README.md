@@ -17,8 +17,11 @@ My ML Journey
 │   ├── Data Gathering                      # APIs, web scraping, files
 │   ├── Exploratory Data Analysis (EDA)     # Univariate, bivariate, multivariate analysis
 │   │   └── Pandas Profiling                # Automated EDA reports
+│   │
 │   ├── Feature Engineering
-│   │   └── Feature Transformation          # Imputation, scaling, encoding
+│   │   ├── Feature Transformation          # Imputation, scaling, encoding
+│   │   └── Feature Construction            # Creating new features from existing ones (splitting, combining)
+│   │
 │   └── Model Development
 │       └── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
 │           └── Models                      # Saved model artifacts (e.g. pipe.pkl)
@@ -54,8 +57,8 @@ My ML Journey
 | Data Visualization | ✅ Complete |
 | Data Gathering | ✅ Complete |
 | Exploratory Data Analysis | ✅ Complete |
-| Feature Transformation | 🔄 In Progress |
-| Feature Construction | ⬜ Not Started |
+| Feature Transformation | ✅ Complete |
+| Feature Construction | 🔄 In Progress |
 | Feature Selection | ⬜ Not Started |
 | Feature Extraction | ⬜ Not Started |
 | Model Building | ⬜ Not Started |
