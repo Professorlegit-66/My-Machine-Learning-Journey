@@ -6,7 +6,7 @@ A structured, hands-on log of my Machine Learning journey — covering data gath
 
 This repository documents my progress as I work through Machine Learning concepts, one topic at a time. Each folder represents a specific stage of the ML pipeline or a library I'm building proficiency in, with practical Jupyter notebooks demonstrating the concepts.
 
-**Currently working on:** Feature Engineering → Feature Transformation
+**Currently working on:** Feature Engineering → Feature Extraction
 
 ## 📂 Repository Structure:
 
@@ -58,9 +58,9 @@ My ML Journey
 | Data Gathering | ✅ Complete |
 | Exploratory Data Analysis | ✅ Complete |
 | Feature Transformation | ✅ Complete |
-| Feature Construction | 🔄 In Progress |
+| Feature Construction | ✅ Complete |
+| Feature Extraction | 🔄 In Progress |
 | Feature Selection | ⬜ Not Started |
-| Feature Extraction | ⬜ Not Started |
 | Model Building | ⬜ Not Started |
 | Model Evaluation | ⬜ Not Started |
 
