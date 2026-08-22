@@ -16,15 +16,14 @@ My ML Journey
 ├── 100 Days of ML
 │   ├── Data Gathering                      # APIs, web scraping, files
 │   ├── Exploratory Data Analysis (EDA)     # Univariate, bivariate, multivariate analysis
-│   │   └── Pandas Profiling                # Automated EDA reports
-│   │
 │   ├── Feature Engineering
 │   │   ├── Feature Transformation          # Imputation, scaling, encoding
 │   │   └── Feature Construction            # Creating new features from existing ones (splitting, combining)
 │   │
+│   ├── Dimensionality Reduction            # Curse of dimensionality, PCA
 │   └── Model Development
+│       ├── Grid Search CV                  # Finding the best feature engineering techniques for different columns
 │       └── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
-│           └── Models                      # Saved model artifacts (e.g. pipe.pkl)
 │
 ├── Data Visualization                      # MatPlotLib, SeaBorn, Cuflinks + Plotly practice
 ├── Datasets                                # Shared datasets (Kaggle-sourced files not tracked, see README)
