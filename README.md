@@ -6,7 +6,7 @@ A structured, hands-on log of my Machine Learning journey — covering data gath
 
 This repository documents my progress as I work through Machine Learning concepts, one topic at a time. Each folder represents a specific stage of the ML pipeline or a library I'm building proficiency in, with practical Jupyter notebooks demonstrating the concepts.
 
-**Currently working on:** Feature Engineering → Feature Extraction
+**Currently working on:** Model Development → Linear Regression
 
 ## 📂 Repository Structure:
 
@@ -18,7 +18,8 @@ My ML Journey
 │   ├── Exploratory Data Analysis (EDA)     # Univariate, bivariate, multivariate analysis
 │   ├── Feature Engineering
 │   │   ├── Feature Transformation          # Imputation, scaling, encoding
-│   │   └── Feature Construction            # Creating new features from existing ones (splitting, combining)
+│   │   ├── Feature Construction            # Creating new features from existing ones (splitting, combining)
+│   │   └── Feature Extraction              # PCA, LDA — deriving new features from existing ones
 │   │
 │   ├── Dimensionality Reduction            # Curse of dimensionality, PCA
 │   └── Model Development
@@ -58,9 +59,9 @@ My ML Journey
 | Exploratory Data Analysis | ✅ Complete |
 | Feature Transformation | ✅ Complete |
 | Feature Construction | ✅ Complete |
-| Feature Extraction | 🔄 In Progress |
-| Feature Selection | ⬜ Not Started |
-| Model Building | ⬜ Not Started |
+| Feature Extraction | ✅ Complete |
+| Feature Selection | ⏸️ On Hold |
+| Model Building | 🔄 In Progress |
 | Model Evaluation | ⬜ Not Started |
 
 ## 🔗 Connect:
