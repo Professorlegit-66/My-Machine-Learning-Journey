@@ -25,7 +25,7 @@ My ML Journey
 │   └── Model Development
 │       ├── Grid Search CV                  # Finding the best feature engineering techniques for different columns
 │       ├── ML Pipelines                    # Avoid data leakage, keep workflow reproducible
-│       └── Algorithms                      # ML algorithms implemented from scratch and with scikit-learn (Linear Regression, etc.)
+│       └── Algorithms                      # ML algorithms implemented from scratch and with scikit-learn (Linear Regression, etc)
 │
 ├── Data Visualization                      # MatPlotLib, SeaBorn, Cuflinks + Plotly practice
 ├── Datasets                                # Shared datasets (Kaggle-sourced files not tracked, see README)
