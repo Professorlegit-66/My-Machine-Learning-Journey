@@ -6,7 +6,7 @@ A structured, hands-on log of my Machine Learning journey — covering data gath
 
 This repository documents my progress as I work through Machine Learning concepts, one topic at a time. Each folder represents a specific stage of the ML pipeline or a library I'm building proficiency in, with practical Jupyter notebooks demonstrating the concepts.
 
-**Currently working on:** Model Development → Linear Regression
+**Currently working on:** Model Building (Algorithms) → Logistic Regression
 
 ## 📂 Repository Structure:
 
