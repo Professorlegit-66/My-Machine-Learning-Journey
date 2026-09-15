@@ -1,12 +1,32 @@
-# My ML Journey:
+# 🤖 My ML Journey:
 
-A structured, hands-on log of my Machine Learning journey — covering data gathering, exploratory data analysis, feature engineering, and the core Python libraries that power the ML workflow.
+A structured, hands-on record of my journey into **Machine Learning** — from data gathering and exploratory analysis to feature engineering, model development, and evaluation.
+
+This repository focuses on **learning by doing**, with practical Jupyter notebooks, experiments, implementations, and progressively more advanced ML concepts.
+
+---
 
 ## 📌 About This Repository:
 
-This repository documents my progress as I work through Machine Learning concepts, one topic at a time. Each folder represents a specific stage of the ML pipeline or a library I'm building proficiency in, with practical Jupyter notebooks demonstrating the concepts.
+This repository documents my progress as I work through Machine Learning concepts, one topic at a time.
 
-**Currently working on:** Model Building (Algorithms) → Naive Bayes
+Each folder represents a stage of my learning journey or a tool used throughout the ML workflow. Wherever possible, concepts are reinforced through **hands-on exercises, experiments, and practical implementations** rather than theory alone.
+
+**Currently working on:** `Model Development → Algorithms → Naive Bayes`
+
+---
+
+## 🛠️ Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+**Visualization:** Matplotlib · Seaborn · Plotly · Cufflinks
 
 ## 📂 Repository Structure:
 
@@ -34,21 +54,18 @@ My ML Journey
 └── .gitignore
 ```
 
-## 🛠️ Tech Stack:
-
-- **Python** — core language
-- **NumPy** — numerical computing
-- **Pandas** — data manipulation and analysis
-- **Matplotlib / Seaborn / Plotly / Cufflinks** — data visualization
-- **Scikit-learn** — feature transformation and modeling utilities
-- **Jupyter Notebook** — primary development environment
+---
 
 ## 🎯 Goals:
 
-- Build a strong foundation in data handling, cleaning, and visualization
-- Understand and apply core feature engineering techniques
-- Progress toward end-to-end ML model building and evaluation
-- Maintain a transparent, revisitable record of my learning process
+- Build a strong foundation in **data handling, cleaning, and visualization**
+- Understand and apply practical **feature engineering** techniques
+- Develop a solid understanding of **core Machine Learning algorithms**
+- Learn how to build, tune, and evaluate ML models
+- Progress toward **end-to-end Machine Learning projects**
+- Maintain a transparent and revisitable record of my learning process
+
+---
 
 ## 📈 Progress Tracker:
 
@@ -62,15 +79,37 @@ My ML Journey
 | Feature Construction | ✅ Complete |
 | Feature Extraction | ✅ Complete |
 | Feature Selection | ⏸️ On Hold |
-| Model Building | 🔄 In Progress |
+| Model Development | 🔄 In Progress |
 | Model Evaluation | ⬜ Not Started |
 
-## 🔗 Connect:
-
-- Kaggle: [talhaahmad66](https://www.kaggle.com/talhaahmad66)
-- LinkedIn: [talha-ahmad-a018203b7](https://linkedin.com/in/talha-ahmad-a018203b7)
-- LeetCode: [TalhaAhmad66](https://leetcode.com/u/TalhaAhmad66/)
+**Current focus:** `Naive Bayes`
 
 ---
 
-*This repository is a work in progress and will be updated regularly as I continue learning.*
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="https://www.kaggle.com/talhaahmad66">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
+  </a>
+  <a href="https://linkedin.com/in/talha-ahmad-a018203b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://leetcode.com/u/TalhaAhmad66/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Follow along as I build my skills in Machine Learning, one project at a time.</i>
+</p>
+
+---
+
+### 🚧 Learning in Public:
+
+This repository is a **work in progress** and is updated regularly as I learn, practice, experiment, and build.
+
+> 📈 **Learn → Practice → Build → Improve → Repeat**
+
+---
