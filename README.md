@@ -86,23 +86,21 @@ My ML Journey
 
 ---
 
+---
+
 ## 🌐 Connect With Me:
 
-<p align="center">
-  <a href="https://www.kaggle.com/talhaahmad66">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
-  </a>
-  <a href="https://linkedin.com/in/talha-ahmad-a018203b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://leetcode.com/u/TalhaAhmad66/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Follow along as I build my skills in Machine Learning, one project at a time.</i>
-</p>
+<p align="center"> 
+  <a href="https://www.kaggle.com/talhaahmad66"> 
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> 
+  </a> 
+  <a href="https://linkedin.com/in/talha-ahmad-a018203b7"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://leetcode.com/u/TalhaAhmad66/"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> 
+  </a> 
+</p> 
 
 ---
 
@@ -110,6 +108,8 @@ My ML Journey
 
 This repository is a **work in progress** and is updated regularly as I learn, practice, experiment, and build.
 
-> 📈 **Learn → Practice → Build → Improve → Repeat**
+<p align="center">
+  🚀 <b><i>Learn → Build → Experiment → Improve → Repeat</i></b>
+</p>
 
 ---
