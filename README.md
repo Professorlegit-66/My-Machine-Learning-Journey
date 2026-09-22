@@ -86,10 +86,6 @@ My ML Journey
 
 ---
 
----
-
----
-
 ## 🌐 Connect With Me:
 
 <p align="center"> 
