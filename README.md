@@ -12,7 +12,7 @@ This repository documents my progress as I work through Machine Learning concept
 
 Each folder represents a stage of my learning journey or a tool used throughout the ML workflow. Wherever possible, concepts are reinforced through **hands-on exercises, experiments, and practical implementations** rather than theory alone.
 
-**Currently working on:** `Model Development → Algorithms → Support Vector Machines (SVM)`
+**Currently working on:** `Model Development → Algorithms → Decision Trees`
 
 ---
 
@@ -82,7 +82,7 @@ My ML Journey
 | Model Development | 🔄 In Progress |
 | Model Evaluation | ⬜ Not Started |
 
-**Current focus:** `Support Vector Machines (SVM)`
+**Current focus:** `Decision Trees`
 
 ---
 
